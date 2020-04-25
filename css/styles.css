@@ -5,3 +5,14 @@ img {
   width: 250px;
   background-color: blue;
 }
+body{
+  font-family: fantasy;
+}
+h1{
+  color: blue;
+  font-family: sans-serif;
+  text-align: center;
+}
+hr{
+  color: blue;
+}
