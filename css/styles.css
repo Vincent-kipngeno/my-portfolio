@@ -14,7 +14,7 @@ body{
   background-color: #ddd;
 }
 .about{
-  color: blue;
+  color: #cc3399;
 }
 h1{
   color: blue;
@@ -34,4 +34,19 @@ span{
   float: left;
   background-color: blue;
   color: white;
+}
+.sidebar p{
+  color: blue;
+}
+h5{
+  font-style: italic;
+  font-family: serif;
+  color:  #003300;
+  font-size: 17px;
+}
+.form{
+  float: left;
+}
+#last{
+  float: left;
 }
