@@ -11,16 +11,27 @@ img {
 }
 body{
   font-family: fantasy;
+  background-color: #ddd;
+}
+.about{
+  color: blue;
 }
 h1{
   color: blue;
   font-family: sans-serif;
   text-align: center;
+  background-color: white;
 }
 .column{
   float: left;
+  color: white;
   width: 30%;
-  background-color:green;
+  background-color:#007acc;
   padding: 2px;
   border: 3px solid white;
+}
+span{
+  float: left;
+  background-color: blue;
+  color: white;
 }
