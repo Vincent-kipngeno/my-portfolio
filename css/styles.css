@@ -13,6 +13,15 @@ h1{
   font-family: sans-serif;
   text-align: center;
 }
-hr{
-  color: blue;
+.project{
+  float:right;
+  width: 450px;
+  color: green;
+}
+.sidebar{
+  float: left;
+  width: 300px;
+  border: 50px;
+  padding: 5px;
+  background-color: #ddd;
 }
